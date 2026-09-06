@@ -1,0 +1,24 @@
+{
+  "expo": {
+    "name": "1Fi Marketplace",
+    "slug": "1fi-marketplace",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "backgroundColor": "#6C28D9"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": false
+    },
+    "android": {
+      "package": "in.fi1.marketplace"
+    },
+    "plugins": [
+      "expo-status-bar"
+    ]
+  }
+}
