@@ -89,3 +89,4 @@ npm start   # then press "i" for iOS simulator, "a" for Android, or "w" for web
    contains the Shop screen.
 4. Replace the contents of `src/api/marketplaceApi.js` with real API calls once backend endpoints
    exist — the function signatures are designed to be a drop-in replacement.
+# 1Fi
